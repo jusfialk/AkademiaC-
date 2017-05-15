@@ -1,0 +1,12 @@
+Justyna Fiałkowska
+
+Technologia: Console/WPF
+
+Cel: Aplikacja umożliwiająca rejestrację zwierząt do przychodni lekarskiej.
+
+- rejestracja użytkownika wraz z logowaniem (zaszyfrowane hasło),
+- możliwość dodania zwierzęcia (imię zwierzecia, imię właściciela, waga, data urodzenia),
+- możliwość wyświetlenia listy zwierząt,
+- możliwośc usunięcia zwierzęcia z bazy,
+- obsługa wyjątków na wprowadzenie niepoprawnych danych,
+- wykorzystanie wyrażeń regularnych, interfejsów, dziedziczenia
