@@ -1,10 +1,13 @@
-Technologia: Console/WPF
+Technologia: Console[/WPF]OPCJONALNIE
 
 Cel: Aplikacja umożliwiająca rejestrację zwierząt do przychodni lekarskiej.
 
-- możliwość dodania zwierzęcia (imię zwierzecia, imię właściciela, waga, data urodzenia),
+- możliwość dodania zwierzęcia (imię zwierzecia, imię właściciela, waga, data urodzenia, etc.),
 - możliwość wyświetlenia listy zwierząt,
 - możliwośc usunięcia zwierzęcia z bazy,
 - obsługa wyjątków na wprowadzenie niepoprawnych danych,
-- wykorzystanie wyrażeń regularnych, interfejsów, dziedziczenia
+- wykorzystanie wyrażeń regularnych,
+- wykorzystanie interfejsów,
+- wykorzystanie dziedziczenia,
+[- wykorzystanie enumów]OPCJONALNIE
 [- rejestracja użytkownika wraz z logowaniem (zaszyfrowane hasło),]OPCJONALNIE
