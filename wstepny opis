@@ -5,7 +5,7 @@ Cel: Aplikacja umożliwiająca rejestrację zwierząt do przychodni lekarskiej.
 - możliwość dodania zwierzęcia (imię zwierzecia, imię właściciela, waga, data urodzenia, etc.),
 - możliwość wyświetlenia listy zwierząt,
 - możliwośc usunięcia zwierzęcia z bazy,
-- możliwość sortowania,
+- możliwość sortowania po wieku, imieniu, etc.,
 - obsługa wyjątków na wprowadzenie niepoprawnych danych,
 - wykorzystanie wyrażeń regularnych,
 - wykorzystanie interfejsów,
